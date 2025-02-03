@@ -28,15 +28,21 @@ const Service: React.FC = () => {
             <p className="text-lg text-gray-700 leading-relaxed">
               We build responsive, user-friendly websites and web applications that provide seamless experiences
               on any device. Our expertise includes JavaScript frameworks, HTML, CSS, and more, ensuring
-              cutting-edge designs and optimal performance.
+              cutting-edge designs and optimal performance i use to my Skills and created so much Website.
             </p>
           </div>
           <div className="mb-8">
-            <h1 className="text-pink-500 text-3xl font-bold mb-4">GRAPHIC DESIGNING</h1>
+            <h1 className="text-pink-500 text-3xl font-bold mb-4">TypeScript Development</h1>
             <p className="text-lg text-gray-700 leading-relaxed">
-              From logos to complete branding solutions, our graphic design services bring your ideas to life.
-              We specialize in Adobe Illustrator and Photoshop, crafting designs that visually communicate
-              and captivate audiences.
+            I specialize in TypeScript, providing scalable and maintainable solutions for web development. With its strong typing and object-oriented features, I ensure robust applications that are easy to manage and extend for future growth.
+            </p>
+          </div>
+          <div className="mb-8">
+            <h1 className="text-pink-500 text-3xl font-bold mb-4">Office-Automation</h1>
+            <p className="text-lg text-gray-700 leading-relaxed">
+            I help automate routine tasks, improve efficiency, and reduce human error. Whether it's automating document management, scheduling, or workflow processes, my solutions aim to boost productivity and create a seamless working environment.
+
+
             </p>
           </div>
         </div>

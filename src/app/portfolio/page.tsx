@@ -24,32 +24,30 @@ const portfolio = () => {
   <div className="space-y-16 max-w-5xl mx-auto">
     <div className="bg-white rounded-lg shadow-md p-8">
       <h1 className="text-3xl font-bold text-pink-500 mb-2">PROJECT 1</h1>
-      <h3 className="text-xl font-semibold text-gray-800 mb-4">STORY BOARDING WEBSITE</h3>
+      <h3 className="text-xl font-semibold text-gray-800 mb-4">PAK-WHEEL WEBSITE</h3>
       <p className="text-gray-600 leading-relaxed mb-4">
-        This platform provides children with a fun and engaging way to experience storytelling through visuals. 
-        Using storyboards composed of colorful, expressive pictures, kids can follow along and understand narratives 
-        step-by-step, making it easier for them to retell the story in their own words. Each story section features 
-        illustrations that capture key moments, helping children with vocabulary, sequencing, and memory skills. 
-        Interactive features, like simple animations or prompts, encourage kids to think critically about what they 
-        see and share their interpretations, fostering creativity and language development in an enjoyable, visual way.
+     I created a practice website with strong HTML and CSS, ensuring a well-balanced design using Flexbox. The project showcases clean code, responsive layouts, and a modern user interface. It reflects my skills in front-end development and attention to detail.
       </p>
-      <a href="https://dilkashmaryam.github.io/storyboarding-webiste/" className="text-blue-500 hover:underline">
+      <a href="https://github.com/Yousmakhanfullstackdeveloper/pakwheel.git" className="text-blue-500 hover:underline">
         Project link
       </a>
     </div>
 
     <div className="bg-white rounded-lg shadow-md p-8">
       <h1 className="text-3xl font-bold text-pink-500 mb-2">PROJECT 2</h1>
-      <h3 className="text-xl font-semibold text-gray-800 mb-4">MEMORY GAME</h3>
+      <h3 className="text-xl font-semibold text-gray-800 mb-4"></h3>
       <p className="text-gray-600 leading-relaxed mb-4">
-        The Memory Game is a fun, interactive challenge designed to test and improve memory skills. The objective 
-        is to find matching pairs of cards within a grid, with each successful match reducing the number of cards 
-        remaining. Built with engaging visuals, it offers various levels of difficulty and keeps track of user attempts, 
-        making it both entertaining and mentally stimulating. The game is ideal for players of all ages looking to 
-        enhance memory recall in a playful setting. The Memory Game project is an engaging, interactive game built 
-        using HTML, CSS, and JavaScript. In this project I've collaborated with my hardworking team.
+      🌟 "Fresh-Fruit Mango is a vibrant and user-friendly website designed to showcase the richness of mangoes. Built using HTML and CSS, this website highlights the nutritional benefits, varieties, and seasonal availability of the king of fruits."
+
+Features:
+🍋 "A clean and modern design with smooth animations and a responsive layout for a seamless browsing experience."
+🍊 "Engaging UI with high-quality images and interactive hover effects to enhance user engagement."
+🍍 "Fully optimized for mobile and desktop viewing, ensuring accessibility for all users."
+
+Objective:
+🥭 "The goal of this website is to provide mango lovers with detailed information, delicious recipes, and a platform to explore the beauty of this tropical fruit."
       </p>
-      <a href="https://dilkashmaryam.github.io/memory-game/" className="text-blue-500 hover:underline">
+      <a href="https://github.com/Yousmakhanfullstackdeveloper/fresh-fruit.git" className="text-blue-500 hover:underline">
         Project link
       </a>
     </div>
@@ -65,7 +63,7 @@ const portfolio = () => {
         privacy and easy identification, making it a powerful tool for job seekers to showcase their skills in a 
         professional format.
       </p>
-      <a href="https://dilkashmaryam.github.io/Shareable-Link-Resume/" className="text-blue-500 hover:underline">
+      <a href="https://github.com/Yousmakhanfullstackdeveloper/milstone-1.git" className="text-blue-500 hover:underline">
         Project link
       </a>
     </div>
