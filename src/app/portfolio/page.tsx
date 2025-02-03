@@ -17,6 +17,11 @@ const portfolio = () => {
             <li>
               <Link href="/portfolio" className='text-black hover:text-black underline text-2xl cursor-pointer'>Portfolio</Link>
             </li>
+            <li>
+            <Link href="/contact" className="text-blue-500 hover:text-black text-xl">
+            Contact
+          </Link>
+          </li>
           </ul>
         </div>
       </nav>

@@ -17,6 +17,11 @@ const Service: React.FC = () => {
             <li>
               <Link href="/portfolio" className='text-blue-400 hover:text-black text-2xl cursor-pointer'>Portfolio</Link>
             </li>
+            <li>
+            <Link href="/contact" className="text-blue-500 hover:text-black text-xl">
+            Contact
+          </Link>
+          </li>
           </ul>
         </div>
       </nav>

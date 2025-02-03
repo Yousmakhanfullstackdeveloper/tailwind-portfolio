@@ -22,6 +22,10 @@ const navLinks: NavLinkProps[] = [
   {
     title: "Services",
     path: "/services",
+  },
+  {
+    title: "Contact",
+    path: "/contact",
   }
 ]
 const NavBar: React.FC = () => {

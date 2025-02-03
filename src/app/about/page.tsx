@@ -27,6 +27,11 @@ const AboutSection = () => {
                 Portfolio
               </Link>
             </li>
+            <li>
+            <Link href="/contact" className="text-blue-500 hover:text-black text-xl">
+            Contact
+          </Link>
+          </li>
           </ul>
         </div>
       </nav>
